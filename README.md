@@ -1,0 +1,2 @@
+# utl_max_run_length_of_ones_wps_proc_r_rle_function
+Max run length of ones wps proc R rle function. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
